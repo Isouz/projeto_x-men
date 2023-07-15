@@ -2,8 +2,7 @@ body {
     font-family: "Oxanium", cursive;
     background-color: black;
     color: white;
-    margin: 0px 7px 7px 7px;
-    /*overflow: hidden;*/
+    margin: 0px 7px 4px 7px;
     overflow-x: hidden;
 }
 
