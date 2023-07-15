@@ -1,4 +1,10 @@
 @media (max-width: 1120px) {
+
+    body {
+        overflow: scroll;
+        overflow-x: hidden;
+    }
+
     .cabecalho .logo {
         max-width: 190px;
     }
@@ -30,7 +36,7 @@
         height: 350px;
     }
 
-    ..descricao-personagem {
+    .descricao-personagem {
         width: 80%;
         font-size: 16px;
         margin: 20px auto;
